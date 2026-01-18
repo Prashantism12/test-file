@@ -5,7 +5,7 @@ def find(n):
 if __name__ == "__main__":
     n=int(input("enter number"))
     result=find(n)
-     print("result",result)
+     
 
     
 
